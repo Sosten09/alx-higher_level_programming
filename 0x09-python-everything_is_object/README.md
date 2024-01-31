@@ -1,1 +1,1 @@
-python project-everythin is oblect
+python project-everything is object
